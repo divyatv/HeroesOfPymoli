@@ -1,4 +1,4 @@
-Note to the grader: The jypter notebook file (especially the outputs) in git (orbrowser) doesnt render correctly and the output looks weird tith tab tags etc. But the code runs fine and outputs as expected.
+Note to the grader: The jypter notebook file (especially the outputs) in git (orbrowser) doesnt render correctly and the output looks weird <> tab tags etc. But the code runs fine and outputs as expected.
 Please run the program to see the output. I have included comments in each code block. The word document has the expected outputs copied.
 
 
