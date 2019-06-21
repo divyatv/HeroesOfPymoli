@@ -1,4 +1,4 @@
-Note: The jyote notebook file in git doesnt render correctly and the output looks weird. But the code runs fine and outputs as expected.
+Note: The jypter notebook file in git doesnt render correctly and the output looks weird. But the code runs fine and outputs as expected.
 
 
 # HeroesOfPymoli
