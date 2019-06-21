@@ -1,0 +1,26 @@
+1) Age wise purchases and popularity
+
+
+2) Check gender and Age - see which gender and age purchase is highest.
+
+           others  Male  Female
+age label                      
+<10             0    18       5
+10-14           0    25       3
+15-19           4   108      24
+20-24           5   304      56
+25-29           2    85      14
+30-34           0    66       7
+35-39           4    34       3
+40+             0    12       1
+
+There is only one female over 40 years old who made a purchase.
+Age groups 20-24 made the highest number of purchases among all three genders.
+
+
+3) The higest purcahse was made by a 25 year old Male
+
+Lisosia93- name
+5 - number of purchases
+$18.96 - purchase amount
+
