@@ -1,5 +1,5 @@
-Note to the grader: The jypter notebook file in git doesnt render correctly and the output looks weird. But the code runs fine and outputs as expected.
-Please run the program to see the output. I can add more comments but doesnt want to change the time stamp of the code- since the dead line to submit has passed.
+Note to the grader: The jypter notebook file (especially the outputs) in git (orbrowser) doesnt render correctly and the output looks weird tith tab tags etc. But the code runs fine and outputs as expected.
+Please run the program to see the output. I have included comments in each code block. The word document has the expected outputs copied.
 
 
 # HeroesOfPymoli
