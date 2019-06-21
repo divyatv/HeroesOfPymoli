@@ -1,3 +1,6 @@
+Note: The jyote notebook file in git doesnt render correctly and the output looks weird. But the code runs fine and outputs as expected.
+
+
 # HeroesOfPymoli
 04-Pandas Assignment
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
